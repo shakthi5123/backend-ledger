@@ -19,7 +19,7 @@ The project includes a Next.js dashboard and a Node.js/Express REST API backed b
 <!-- Replace these paths with screenshots of your actual application -->
 
 ### Signup
-![Account Signup](docs/screenshots/signup.png)
+![Account Signup](docs/screenshots/signup-page.png)
 
 
 ### Dashboard
