@@ -4,18 +4,32 @@ A full-stack banking ledger application built to explore backend engineering con
 
 The project includes a Next.js dashboard and a Node.js/Express REST API backed by MongoDB.
 
+<p align="center">
+  <a href="https://backend-ledger-two-bay.vercel.app">
+    <strong>🚀 Live Demo</strong>
+  </a>
+  &nbsp; | &nbsp;
+  <a href="https://backend-ledger-ozhv.onrender.com">
+    <strong>⚙️ Backend API</strong>
+  </a>
+</p>
+
 ## Application Preview
 
 <!-- Replace these paths with screenshots of your actual application -->
 
+### Signup
+![Account Signup](docs/screenshots/signup.png)
+
+
 ### Dashboard
 ![Ledger Dashboard](docs/screenshots/dashboard.png)
 
-### Account Management
-![Account Management](docs/screenshots/accounts.png)
+### Account Management - Sending Money
+![Account Management](docs/screenshots/send-money.png)
 
-### Fund Transfers
-![Fund Transfers](docs/screenshots/transfers.png)
+### Fund Transfers - System funding
+![Fund Transfers](docs/screenshots/sys-funding.png)
 
 ## Features
 
